@@ -10,6 +10,7 @@
 - **GitHub username:** vald99
 - **Git installed:** yes
 ## Notes to future me
+- Finish the next lab!
 Things I got stuck on, so I don't get stuck again:
 - none yet
 
