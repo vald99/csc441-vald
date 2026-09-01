@@ -12,3 +12,9 @@
 ## Notes to future me
 Things I got stuck on, so I don't get stuck again:
 - none yet
+
+## Terminal commands I learned
+- pwd
+- ls
+- cd
+- mkdir
