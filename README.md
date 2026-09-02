@@ -19,3 +19,8 @@ Things I got stuck on, so I don't get stuck again:
 - ls
 - cd
 - mkdir
+
+## My goals for this course
+- Master some handy git commands
+- Create and merge branches
+- Think about more goals
