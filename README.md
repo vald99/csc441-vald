@@ -24,3 +24,9 @@ Things I got stuck on, so I don't get stuck again:
 - Master some handy git commands
 - Create and merge branches
 - Think about more goals
+
+## Tools I have installed
+- [x] Git
+- [ ] IntelliJ IDEA Community Edition
+- [ ] Android Studio
+- [x] VS Code
