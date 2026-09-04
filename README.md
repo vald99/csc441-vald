@@ -30,3 +30,6 @@ Things I got stuck on, so I don't get stuck again:
 - [ ] IntelliJ IDEA Community Edition
 - [ ] Android Studio
 - [x] VS Code
+
+## Status
+Just getting started. 
