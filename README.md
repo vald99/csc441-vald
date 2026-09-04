@@ -32,5 +32,4 @@ Things I got stuck on, so I don't get stuck again:
 - [x] VS Code
 
 ## Status
-Working through branches. Slightly confused but getting there.
-
+Learning Git. Branches make more sense now; merge conflicts are next.
